@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahaj0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning Python, Kotlin and Java.
 - 💞️ I’m looking to collaborate on volunteer projects.
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... 
